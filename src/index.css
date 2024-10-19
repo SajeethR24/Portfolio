@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+:root {
+  font-family: outfit;
+  line-height: 1.5;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #0b0b0bfe;
+}
+
+body{
+  margin: -23px;
+  overflow-x: hidden;
+}
